@@ -1,6 +1,6 @@
 eureka:
   instance:
-    hostname: 192.168.0.69
+    hostname: 192.168.1.26
     prefer-ip-address: true
   client:
     fetch-registry: true
